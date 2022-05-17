@@ -9,7 +9,7 @@
     <LinearLayout
         android:layout_width="90dp"
         android:layout_height="90dp"
-        android:background="#C3DCD8"
+        android:background="#F1FAFA"
 
 
         />
@@ -21,7 +21,7 @@
         android:layout_height="90dp"
         android:scaleType="centerCrop"
         app:shapeAppearanceOverlay="@style/Circular"
-        app:strokeColor="#3479CD"
+        app:strokeColor="#D2000000"
         app:strokeWidth="3dp" />
 
     <TextView
@@ -49,9 +49,9 @@
             android:id="@+id/l_bttn1"
             android:layout_width="45dp"
             android:layout_height="45dp"
-            android:backgroundTint="#34CDB6"
+            android:backgroundTint="#D2000000"
             android:text="-"
-            android:textColor="@color/black" />
+            android:textColor="@color/white" />
 
         <TextView
             android:id="@+id/l_tv2"
@@ -67,10 +67,10 @@
             android:id="@+id/l_bttn2"
             android:layout_width="45dp"
             android:layout_height="45dp"
-            android:backgroundTint="#34CDB6"
+            android:backgroundTint="#D2000000"
             android:text="+"
 
-            android:textColor="@color/black" />
+            android:textColor="@color/white" />
 
         <TextView
             android:id="@+id/l_tv3"

@@ -13,7 +13,8 @@
     tools:ignore="MissingConstraints"
         android:text="Want your own app ?"
         android:textSize="30sp"
-        android:background="#66F30E"
+        android:textColor="@color/white"
+        android:background="#D2000000"
         android:gravity="center"
         android:textStyle="bold"/>
     <TextView
@@ -31,8 +32,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:id="@+id/DD_button1"
-        android:backgroundTint="#EA6161"
-        android:textColor="@color/black"
+        android:backgroundTint="#D2000000"
+        android:textColor="@color/white"
         android:text="make_your_app@usbc.be"
         android:textAllCaps="false"
         app:layout_constraintTop_toBottomOf="@id/DD_textView2"/>
@@ -44,7 +45,7 @@
         android:layout_marginTop="20dp"
         android:text="Nowadays it is so much important to grow with the present scenerio,digitalisation is the first step towards it."
         tools:ignore="MissingConstraints"
-        android:gravity="center"
+        android:gravity="left"
         android:textColor="@color/black"
         app:layout_constraintTop_toBottomOf="@id/DD_button1"/>
     <TextView
@@ -54,7 +55,7 @@
         android:textSize="20sp"
         android:textColor="@color/black"
         android:layout_marginTop="20dp"
-        android:gravity="center"
+        android:gravity="left"
         android:text="If you have any organisations, shops ,others you can have your own app which will help you grow in the digital race."
         tools:ignore="MissingConstraints"
         android:textStyle="bold"

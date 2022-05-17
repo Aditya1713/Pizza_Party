@@ -19,13 +19,14 @@
    <com.google.android.material.tabs.TabLayout
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
-       android:background="#92C8EC"
+       android:background="#D2000000"
+       app:tabTextColor="@color/white"
        android:id="@+id/tab1"
        />
 
     <androidx.viewpager.widget.ViewPager
         android:layout_width="match_parent"
-        android:background="#ACC5CA"
+        android:background="#FFFFFF"
         android:layout_height="match_parent"
         android:id="@+id/view1"/>
 

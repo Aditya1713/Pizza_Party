@@ -38,7 +38,7 @@
             tools:ignore="MissingConstraints" />
         <EditText
             android:id="@+id/MPeditText1"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Address"
             android:textColor="@color/black"
@@ -63,7 +63,7 @@
             tools:ignore="MissingConstraints" />
         <EditText
             android:id="@+id/MP_editPhone"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Phone"
             android:textColor="@color/black"

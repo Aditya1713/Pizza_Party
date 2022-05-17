@@ -12,10 +12,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         tools:ignore="MissingConstraints"
-        android:text="Issue regarding your orders or services"
+        android:text="Issue regarding orders"
+        android:textColor="@color/white"
         android:textSize="25sp"
-        android:background="#FFEB3B"
-        android:gravity="center"
+        android:background="#232322"
+        android:gravity="start"
+        android:paddingLeft="20dp"
+        android:paddingTop="20dp"
         android:textStyle="bold"/>
     <TextView
         android:id="@+id/CU_textView2"
@@ -32,7 +35,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:id="@+id/CU_button1"
-        android:backgroundTint="#FFEB3B"
+        android:backgroundTint="@color/white"
         android:textColor="@color/black"
 
         android:text="     6200291499"
@@ -45,9 +48,12 @@
         tools:ignore="MissingConstraints"
         android:text="Got any trouble in app"
         android:textSize="25sp"
+        android:textColor="@color/white"
         android:layout_marginTop="15dp"
-        android:background="#D2F12B3C"
-        android:gravity="center"
+        android:background="#D2000000"
+        android:gravity="start"
+        android:paddingTop="20dp"
+        android:paddingLeft="20dp"
         android:textStyle="bold"
         app:layout_constraintTop_toBottomOf="@id/CU_button1"/>
     <TextView
@@ -68,7 +74,7 @@
         android:layout_marginTop="20dp"
         android:text="make_your_app@usbc.be"
         tools:ignore="MissingConstraints"
-        android:background="#61EA63"
+        android:background="#FFFFFF"
         android:gravity="center"
         android:textStyle="bold"
         app:layout_constraintTop_toBottomOf="@id/CU_textView5"/>
