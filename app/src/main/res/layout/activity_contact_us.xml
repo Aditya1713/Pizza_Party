@@ -14,7 +14,7 @@
         tools:ignore="MissingConstraints"
         android:text="Issue regarding your orders or services"
         android:textSize="25sp"
-        android:background="#D2F12B3C"
+        android:background="#FFEB3B"
         android:gravity="center"
         android:textStyle="bold"/>
     <TextView
@@ -32,7 +32,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:id="@+id/CU_button1"
-        android:backgroundTint="#61EA63"
+        android:backgroundTint="#FFEB3B"
         android:textColor="@color/black"
 
         android:text="     6200291499"
