@@ -4,15 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/paymentactivity"
-
     tools:context=".Payment_Activity">
+
     <androidx.appcompat.widget.Toolbar
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/tool_bar"
-        android:background="#03A9F4"
+        android:background="#D2000000"
         app:title="SELECT PAYMENT "
+
         app:titleTextColor="@color/white"
         tools:ignore="MissingConstraints" />
     <TextView
@@ -24,40 +24,46 @@
         android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:id="@+id/upi"
-
-        android:backgroundTint="#03A9F4"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#D2000000"
         app:layout_constraintTop_toBottomOf="@id/tool_bar"
         android:text="UPI"
         android:textSize="20sp"
         android:textStyle="bold"
+        android:textColor="@color/white"
         tools:ignore="MissingConstraints" />
+
     <Button
     android:layout_width="100dp"
     android:layout_height="wrap_content"
     android:id="@+id/homeDelivery"
     app:layout_constraintTop_toBottomOf="@id/upi"
     android:text="COD"
-        android:backgroundTint="#03A9F4"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#D2000000"
     android:textSize="20sp"
     android:textStyle="bold"
+        android:textColor="@color/white"
     tools:ignore="MissingConstraints" />
+
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toTopOf="@id/TotalPrice"
         android:id="@+id/whatsapp"
        android:text="whatsapp"
-        android:backgroundTint="#03A9F4"
+        android:textColor="@color/white"
+        android:backgroundTint="#D2000000"
         tools:ignore="MissingConstraints" />
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:id="@+id/TotalPrice"
 
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:background="#0C3D43"
+        android:background="#D2000000"
 
         app:layout_constraintBottom_toBottomOf="parent"
         tools:ignore="MissingConstraints" >
@@ -68,6 +74,7 @@
             android:textSize="20sp"
             android:textStyle="bold"
             android:layout_weight="1"
+            android:textColor="@color/white"
             android:layout_gravity="center_vertical"
             android:id="@+id/ptriceTextView"/>
         <TextView
@@ -80,7 +87,6 @@
             android:layout_marginRight="10dp"
             android:id="@+id/priceEditTextView"
             android:textStyle="bold"
-
             android:textSize="20sp"/>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

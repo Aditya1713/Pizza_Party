@@ -13,8 +13,8 @@
         android:layout_height="90dp"
         android:scaleType="centerCrop"
         app:shapeAppearanceOverlay="@style/Circular"
-        app:strokeWidth="3dp"
-        app:strokeColor="#FFEA00"/>
+        app:strokeColor="#D2000000"
+        app:strokeWidth="3dp" />
     <TextView
         android:id="@+id/d_tv1"
 
@@ -24,8 +24,8 @@
         android:layout_toRightOf="@id/d_iv1"
         android:hint="pizza name"
         android:textColor="@color/black"
-
-        android:textSize="20sp"
+        android:layout_marginLeft="15dp"
+        android:textSize="25sp"
         android:textStyle="bold" />
     <LinearLayout
         android:layout_below="@id/d_tv1"
@@ -71,8 +71,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
-            android:backgroundTint="#FFEB3B"
-            android:textColor="@color/black"
+            android:backgroundTint="#D2000000"
+            android:textColor="@color/white"
             android:layout_gravity="center_vertical"
             android:id="@+id/d_edit"
             android:text="Update"/>

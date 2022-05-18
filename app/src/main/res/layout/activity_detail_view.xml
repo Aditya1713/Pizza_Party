@@ -13,13 +13,14 @@
     android:layout_height="wrap_content"
     android:id="@+id/tb1"
     app:title="Orders"
-    app:titleTextColor="@color/black"
-    android:background="#FFEB3B"
+    app:titleTextColor="@color/white"
+    android:background="#D2000000"
     tools:ignore="MissingConstraints" >
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Orders"
+        android:textColor="@color/white"
         android:textStyle="bold"
         android:textSize="30sp"/>
     <RelativeLayout

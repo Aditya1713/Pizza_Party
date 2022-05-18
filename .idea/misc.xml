@@ -39,15 +39,30 @@
         <entry key="..\:/Users/adity/AndroidStudioProjects/Pizza_Party/app/src/main/res/layout/ss_placedorders.xml" value="0.151268115942029" />
         <entry key="..\:/Users/adity/AndroidStudioProjects/Pizza_Party/app/src/main/res/menu/mwnu.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/adity/AndroidStudioProjects/Pizza_Party/app/src/main/res/menu/ordersmenu.xml" value="0.1796875" />
+        <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/drawable/button.xml" value="0.1375" />
+        <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.169" />
+        <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/drawable/ic_baseline_payment2_24.xml" value="0.1375" />
+        <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/drawable/ic_baseline_payment_24.xml" value="0.1375" />
+        <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/drawable/ic_cart.xml" value="0.1375" />
+        <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/drawable/ic_shopping_cart_24.xml" value="0.1375" />
+        <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/drawable/payment.xml" value="0.169" />
         <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/activity_contact_us.xml" value="0.22" />
+        <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/activity_detail_view.xml" value="0.1796875" />
         <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/activity_dev_desk.xml" value="0.1796875" />
         <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/activity_list_items.xml" value="0.1796875" />
         <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
         <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/activity_my_profile.xml" value="0.1796875" />
         <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/activity_order_placed.xml" value="0.1796875" />
+        <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/activity_payment.xml" value="0.1796875" />
         <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/activity_second__page.xml" value="0.1796875" />
         <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/activity_show_placed_order.xml" value="0.1796875" />
         <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/activity_third__page.xml" value="0.1796875" />
+        <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/detail_listview.xml" value="0.1796875" />
+        <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/fragment_non_veg.xml" value="0.1796875" />
+        <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/fragment_veg.xml" value="0.1796875" />
+        <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/list_items.xml" value="0.1796875" />
+        <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/list_view.xml" value="0.1796875" />
+        <entry key="..\:/Users/adity/OneDrive/Desktop/New folder/Pizza_Party/app/src/main/res/layout/ss_placedorders.xml" value="0.1796875" />
       </map>
     </option>
   </component>
