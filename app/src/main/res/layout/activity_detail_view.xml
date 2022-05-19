@@ -39,7 +39,7 @@
 
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="2dp"
+        android:layout_height="4dp"
         android:id="@+id/d_tv1"
         app:layout_constraintTop_toBottomOf="@id/tb1"
         android:backgroundTint="@color/black"

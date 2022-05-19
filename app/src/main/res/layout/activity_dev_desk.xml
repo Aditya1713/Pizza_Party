@@ -34,7 +34,7 @@
         android:id="@+id/DD_button1"
         android:backgroundTint="#D2000000"
         android:textColor="@color/white"
-        android:text="make_your_app@usbc.be"
+        android:text="aditya27872014@gmail.com"
         android:textAllCaps="false"
         app:layout_constraintTop_toBottomOf="@id/DD_textView2"/>
     <TextView
