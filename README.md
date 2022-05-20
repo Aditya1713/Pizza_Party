@@ -1,3 +1,19 @@
 # Pizza_Party
-A pizza ordering platform .Desinged using FIREBASE handling realtime database and cloud messaging
-uses Sql for saving data at users end.
+A pizza ordering platform .(Desinged using FIREBASE handling realtime database and cloud messaging
+uses Sql for saving data at users end.)
+
+Pizza delivery apps service allows customers to pick from different flavours of pizza from their favourite restaurant and with the pizza constructor feature they can customize their pizza by adding toppings, spices, ingredients etc. according to their taste, and place an order.
+
+Customer Loyalty
+
+It is a lengthy and challenging process to gain customer trust. In most instances, buyers today have a wide availability of similar products and options of service providers to choose from. In these conditions, an efficient app can be the backbone of your business.
+
+Location-based Marketing
+
+It is an emerging trend nowadays, and with a mobile delivery app, you can be able to notify and messaging about promotions according to the location of your potential customers.
+
+Better Customer Data: It helps maintain the information of customers whether the customer is a regular one, and what are the top picks for them from your restaurant? Whether a customer orders from a website or app and knows about the offers and promotions on the site? Such questions can quickly be answered using analytics and information by a reliable mobile ordering system.
+
+Delivery Service
+
+With mobile app development, it is easy to improve your delivery system significantly. Rather than following the traditional on-call ordering system, restaurant owners prefer to create an app that simplifies the ordering and delivery process simultaneously.
