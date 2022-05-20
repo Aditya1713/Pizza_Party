@@ -17,3 +17,8 @@ Better Customer Data: It helps maintain the information of customers whether the
 Delivery Service
 
 With mobile app development, it is easy to improve your delivery system significantly. Rather than following the traditional on-call ordering system, restaurant owners prefer to create an app that simplifies the ordering and delivery process simultaneously.
+# Screenshot
+
+<img src="https://user-images.githubusercontent.com/68418318/169589352-838a0c35-4a26-44f9-a015-af3b9eef0223.jpeg" width="200" height="300">  <img src="https://user-images.githubusercontent.com/68418318/169589367-76ee38c4-631d-43a5-bf7a-a8b409d5ffe2.jpeg " width="200" height="300">  <img src="https://user-images.githubusercontent.com/68418318/169589378-0d865dc2-1cc6-45c4-ba24-9b3a519c061a.jpeg" width="200" height="300">  <img src="https://user-images.githubusercontent.com/68418318/169589386-2e3f8931-f067-4d76-b27c-ea05e4499d00.jpeg" width="200" height="300">
+
+
