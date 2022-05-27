@@ -39,6 +39,7 @@ Button signInButton1;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         firebaseDatabase = FirebaseDatabase.getInstance();
         firebaseAuth = FirebaseAuth.getInstance();
         mUsername = ANONYMOUS;
@@ -133,7 +134,8 @@ Button signInButton1;
                                             new AuthUI.IdpConfig.EmailBuilder().build())).build(),RC_SIGN_IN);
                 }
             }
-        };firebaseAuth.addAuthStateListener(authStateListener);
+        };
+        firebaseAuth.addAuthStateListener(authStateListener);
     }
 
     @Override
@@ -147,7 +149,7 @@ Button signInButton1;
             } else if (resultCode == RESULT_CANCELED) {
                 // Sign in was canceled by the user, finish the activity
                 Toast.makeText(this, "Sign in canceled", Toast.LENGTH_SHORT).show();
-                finish();
+                //finish();
             }
         }
     }

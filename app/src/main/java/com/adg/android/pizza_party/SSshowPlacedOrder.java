@@ -37,9 +37,10 @@ public class SSshowPlacedOrder extends AppCompatActivity {
         mdatabaseReference = firebaseDatabase.getReference().child("orders");
 
         ListView listView = findViewById(R.id.SPOListView);
-       list = new ArrayList<>();
+        list = new ArrayList<>();
         adapter = new SSorderPlacedAdapter(this, R.layout.ss_placedorders, list);
         listView.setAdapter(adapter);
+
         mdatabaseReference.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {

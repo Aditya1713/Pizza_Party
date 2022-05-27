@@ -41,7 +41,7 @@ import java.util.ArrayList;
         contentValues.put("f_name",name);
         contentValues.put("price",price);
         contentValues.put("quantity",quantity);
-contentValues.put("image",imgid);
+        contentValues.put("image",imgid);
         long id = database.insert("orders",null,contentValues);
         if(id<=0)
             return false;
